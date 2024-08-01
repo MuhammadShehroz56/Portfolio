@@ -978,7 +978,7 @@ img {
 
 .footer__title
 {
-  color: var(--first-color);
+  color: white;
 }
 .footer__subtitle,
 .footer__link,
